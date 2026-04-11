@@ -81,8 +81,8 @@ const siteData = {
     ctaSecondary: "View Our Fleet",
     trustBadge: "300+ Projects Completed",
     backgroundImages: [
-      { url: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=1920&q=85", alt: "Heavy logistics truck on highway at golden hour" },
-      { url: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=1920&q=85", alt: "Fleet of transport vehicles in logistics yard" },
+      { url: "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=1920&q=85", alt: "Heavy logistics truck on highway at golden hour" },
+      { url: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&q=85", alt: "Fleet of transport vehicles in logistics yard" },
       { url: "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?w=1920&q=85", alt: "Aerial view of earthmoving equipment at work site" },
     ],
   },
@@ -136,21 +136,21 @@ const siteData = {
         slug: "heavy-haulage",
         desc: "When standard transport is not enough, Frontline delivers. Our heavy haulage division specialises in abnormal loads, oversized equipment, and high-tonnage consignments across Zimbabwe's road network. From mining machinery to structural steel, we have the flatbeds, lowbeds, and expertise to move it safely and on schedule.",
         features: ["Abnormal Load Permits", "Lowbed Transport", "Flatbed Haulage", "Side-Tipper Services", "Escort Vehicles", "Route Planning"],
-        image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
       },
       {
         title: "Earthmoving & Excavation",
         slug: "earthmoving-excavation",
         desc: "From the first cut to final grade, our earthmoving division transforms raw land into buildable sites. We deploy excavators, dozers, and graders to handle bulk earthworks, trenching, and precision levelling for residential, commercial, and industrial developments.",
         features: ["Bulk Earthworks", "Trenching", "Foundation Excavation", "Dam Construction", "Road Formation", "Cut & Fill"],
-        image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
       },
       {
         title: "Fleet Logistics",
         slug: "fleet-logistics",
         desc: "Our dedicated logistics arm provides scheduled and on-demand haulage for manufacturers, mines, and construction companies. Every vehicle is GPS-tracked, every driver is vetted, and every delivery is confirmed in real-time.",
         features: ["GPS Tracking", "Scheduled Routes", "On-Demand Dispatch", "Warehouse Distribution", "Cross-Border Transport", "Proof of Delivery"],
-        image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
       },
       {
         title: "Site Clearing",
@@ -164,14 +164,14 @@ const siteData = {
         slug: "tipper-hire",
         desc: "Need material moved? Our fleet of tippers delivers sand, stone, gravel, and building rubble to sites across Harare and beyond. Available for single loads or long-term contracts with competitive per-load and monthly rates.",
         features: ["Sand Delivery", "Stone & Gravel", "Building Rubble", "Single Load Hire", "Contract Rates", "Same-Day Dispatch"],
-        image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
       },
       {
         title: "Plant Hire",
         slug: "plant-hire",
         desc: "Access our fleet of well-maintained construction plant without the capital outlay. Excavators, TLBs, graders, rollers, and compactors available for wet hire (with operator) or dry hire. All machines are serviced and ready to deploy.",
         features: ["Excavator Hire", "TLB Hire", "Grader Hire", "Roller & Compactor", "Wet & Dry Hire", "Operator Supply"],
-        image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
       },
     ],
   },
@@ -188,10 +188,10 @@ const siteData = {
         desc: "120,000 cubic metres of cut-and-fill for a premium residential estate. Completed two weeks ahead of schedule.",
         client: "Private Developer",
         services: ["Bulk Earthworks", "Grading", "Site Preparation"],
-        image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80",
-          "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
+          "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
+          "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
         ],
       },
       {
@@ -202,10 +202,10 @@ const siteData = {
         desc: "6-month material haulage contract delivering 50,000 tonnes of aggregate for municipal road rehabilitation.",
         client: "Chitungwiza Municipality",
         services: ["Tipper Hire", "Fleet Logistics", "Material Delivery"],
-        image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
-          "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80",
+          "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
+          "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
         ],
       },
       {
@@ -219,7 +219,7 @@ const siteData = {
         image: "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?w=800&q=80",
         images: [
           "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?w=800&q=80",
-          "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80",
+          "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
         ],
       },
       {
@@ -230,9 +230,9 @@ const siteData = {
         desc: "Transport and placement of 40-tonne steel structures for a new industrial warehouse complex.",
         client: "Industrial Holdings Ltd",
         services: ["Heavy Haulage", "Lowbed Transport", "Crane Coordination"],
-        image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
+          "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
           "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?w=800&q=80",
         ],
       },
@@ -244,10 +244,10 @@ const siteData = {
         desc: "Platform preparation for 200-unit housing scheme. Bulk cut-and-fill, storm drainage, and access road formation.",
         client: "National Housing Authority",
         services: ["Bulk Earthworks", "Storm Drainage", "Access Roads"],
-        image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80",
-          "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
+          "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
+          "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
         ],
       },
       {
@@ -258,10 +258,10 @@ const siteData = {
         desc: "Long-term logistics contract handling daily distribution runs for a major FMCG manufacturer across Harare.",
         client: "FMCG Manufacturer",
         services: ["Fleet Logistics", "Distribution", "Warehousing Support"],
-        image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
         images: [
-          "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80",
-          "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80",
+          "https://images.unsplash.com/photo-1504222490345-c075b6008014?w=800&q=80",
+          "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80",
         ],
       },
     ],
@@ -391,7 +391,7 @@ const siteData = {
     ctaPrimary: "Request a Quote",
     ctaSecondary: "Chat on WhatsApp",
     whatsappText: "Hello Frontline! I'd like to discuss a haulage/earthmoving requirement.",
-    backgroundImage: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=1920&q=85",
+    backgroundImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1920&q=85",
   },
 
   footer: {
